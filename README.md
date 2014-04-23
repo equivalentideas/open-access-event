@@ -16,11 +16,11 @@ To be developed
 * InfoAus
 * Detention Logs
 
-## Topics
+## Core skills to be covered
 
 To be developed
 
-## Sessions
+## Core ideas to be covered
 
 To be developed
 
