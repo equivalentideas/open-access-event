@@ -18,6 +18,8 @@ To be developed
 
 ## Core skills to be covered
 
+* FOI
+
 To be developed
 
 ## Core ideas to be covered
