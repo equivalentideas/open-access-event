@@ -20,7 +20,7 @@ To be developed
 
 * FOI
 
-To be developed
+To be developed, [see discussion](https://github.com/equivalentideas/open-access-event/issues/1)
 
 ## Core ideas to be covered
 
