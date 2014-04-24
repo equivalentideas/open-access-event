@@ -11,7 +11,7 @@ To be developed
 
 ## Principles
 
-To be developed
+To be developed, [see discussion](https://github.com/equivalentideas/open-access-event/issues/4)
 
 ## Participating Projects
 
