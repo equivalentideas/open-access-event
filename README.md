@@ -3,7 +3,9 @@ open-access-event
 
 A repo for planning an open access event to be held in Sydney, Australia in late 2014.
 
-Contribute to the development of this event by [joining the discussion](https://github.com/equivalentideas/open-access-event/issues?state=open). 
+Contribute to the development of this event by [joining the discussion](https://github.com/equivalentideas/open-access-event/issues?state=open).
+
+Planning Committee: [Emma Bacon](https://twitter.com/propermixedgood), [Luke Bacon](https://twitter.com/equivalentideas), [Rosie Williams](https://twitter.com/Info_Aus)
 
 ## Aims
 
