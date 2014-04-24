@@ -24,7 +24,7 @@ To be developed, [see discussion](https://github.com/equivalentideas/open-access
 
 ## Core ideas to be covered
 
-To be developed
+To be developed, [see discussion](https://github.com/equivalentideas/open-access-event/issues/3)
 
 ## Venue
 
