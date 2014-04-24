@@ -3,6 +3,8 @@ open-access-event
 
 A repo for planning an open access event to be held in Sydney, Australia in late 2014.
 
+Contribute to the development of this event by [joining the discussion](https://github.com/equivalentideas/open-access-event/issues?state=open). 
+
 ## Aims
 
 To be developed
