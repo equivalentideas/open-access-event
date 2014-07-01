@@ -44,6 +44,9 @@ To be developed, [see discussion](https://github.com/equivalentideas/open-access
 
 * InfoAus
 * Detention Logs
+* Nofibs.com.au
+* Independent Media 
+* Open Australia Foundation?
 
 ## Core skills to be covered
 
@@ -57,7 +60,7 @@ To be developed, [see discussion](https://github.com/equivalentideas/open-access
 
 ## Venue
 
-To be developed
+UTS has been discussed. Google premsies are considered too small.
 
 ## Resources
 
