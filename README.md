@@ -60,7 +60,9 @@ To be developed, [see discussion](https://github.com/equivalentideas/open-access
 
 ## Venue
 
-UTS has been discussed. Google premsies are considered too small.
+UTS has been discussed. Google premsies are considered too small. Venue needs to be finalised within coming weeks. Aiming for a capacity for the presentations that bookend the day (introduction & wrap up) to cater to a capacity of up to 200 participants.
+
+Other presentations/workshops will be for smaller groups and require smaller rooms.
 
 ## Resources
 
