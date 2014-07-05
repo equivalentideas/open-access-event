@@ -40,6 +40,19 @@ Take home for project founders/editors:
 
 To be developed, [see discussion](https://github.com/equivalentideas/open-access-event/issues/4)
 
+## Structure
+
+We aim to include three different types of session:
+
+* Two **Ideas** plenaries  
+  *Why get involved with citizen journalism and civic hacking? What is at stake and what can we achieve?*
+
+* Two **Practical Skills** plenaries  
+  *Introduction to a skill or technique that is useful across a broad range of projects and activites, e.g. What and How of  the Freedom of Information system.*
+
+* One **Project** session of parallel workshops  
+  *Attendees are introduced to a range of participating projects and can make contact, learn how to contribute and sign up for further envolvement.*
+
 ## Participating Projects
 
 * InfoAus
