@@ -6,5 +6,6 @@
     *See [Issue #7](https://github.com/equivalentideas/open-access-event/issues/7)*
 * Venue
 * Speakers
-* Sponsors/Funding
+* Sponsors/Funding  
   *See [Issue #6](https://github.com/equivalentideas/open-access-event/issues/6)*
+* Plan future meetings leading up to October
