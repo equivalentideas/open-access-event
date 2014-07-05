@@ -64,6 +64,7 @@ We aim to include three different types of session:
 ## Core skills to be covered
 
 * FOI
+* Volunteering and working with volunteers
 
 To be developed, [see discussion](https://github.com/equivalentideas/open-access-event/issues/1)
 
