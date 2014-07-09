@@ -9,3 +9,4 @@
 * Sponsors/Funding  
   *See [Issue #6](https://github.com/equivalentideas/open-access-event/issues/6)*
 * Plan future meetings leading up to October
+ * opening the planning process to participating organisations
