@@ -59,7 +59,7 @@ We aim to include three different types of session:
 * Detention Logs
 * Nofibs.com.au
 * Independent Media 
-* Open Australia Foundation?
+
 
 ## Core skills to be covered
 
